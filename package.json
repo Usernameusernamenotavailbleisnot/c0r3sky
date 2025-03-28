@@ -1,0 +1,17 @@
+{
+    "name": "c0r3sky",
+    "version": "1.0.0",
+    "description": "c0r3sky",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.2",
+      "chalk": "^4.1.2",
+      "ethers": "^6.8.1",
+      "https-proxy-agent": "^7.0.2", 
+      "winston": "^3.11.0",
+      "winston-console-format": "^1.0.8"
+    }
+  }
